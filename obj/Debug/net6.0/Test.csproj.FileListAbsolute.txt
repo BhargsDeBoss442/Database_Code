@@ -1,0 +1,15 @@
+/Users/bhargav/Downloads/Test/Test/bin/Debug/net6.0/Test
+/Users/bhargav/Downloads/Test/Test/bin/Debug/net6.0/Test.deps.json
+/Users/bhargav/Downloads/Test/Test/bin/Debug/net6.0/Test.runtimeconfig.json
+/Users/bhargav/Downloads/Test/Test/bin/Debug/net6.0/Test.dll
+/Users/bhargav/Downloads/Test/Test/bin/Debug/net6.0/Test.pdb
+/Users/bhargav/Downloads/Test/Test/obj/Debug/net6.0/Test.csproj.AssemblyReference.cache
+/Users/bhargav/Downloads/Test/Test/obj/Debug/net6.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhargav/Downloads/Test/Test/obj/Debug/net6.0/Test.AssemblyInfoInputs.cache
+/Users/bhargav/Downloads/Test/Test/obj/Debug/net6.0/Test.AssemblyInfo.cs
+/Users/bhargav/Downloads/Test/Test/obj/Debug/net6.0/Test.csproj.CoreCompileInputs.cache
+/Users/bhargav/Downloads/Test/Test/obj/Debug/net6.0/Test.dll
+/Users/bhargav/Downloads/Test/Test/obj/Debug/net6.0/refint/Test.dll
+/Users/bhargav/Downloads/Test/Test/obj/Debug/net6.0/Test.pdb
+/Users/bhargav/Downloads/Test/Test/obj/Debug/net6.0/Test.genruntimeconfig.cache
+/Users/bhargav/Downloads/Test/Test/obj/Debug/net6.0/ref/Test.dll
